@@ -1,34 +1,25 @@
-Repo for static website prototype for the Ai Finance Toolset project Team: Anaïs Gilbert and Sajid Ali
-
-
 # **Finance Toolset | Smart Financial Planning & Budgeting**
 
 ## Table of Contents
 
 [Finance Toolset | Smart Financial Planning & Budgeting](#finance-toolset--smart-financial-planning--budgeting)
 
-1. [Introduction](#introduction)
-
-2. [Product Overview](#product-overview)
-
-3. [Features](#features)
-[Budgeting & Expense Management](#budgeting--expense-management)
-[Smart Spending Guidance](#smart-spending-guidance)
-[Financial Allocation & Planning](#financial-allocation--planning)
-
-4. [System Requirements](#system-requirements)
-[Minimum Requirements:](#minimum-requirements)
-[Recommended Requirements:](#recommended-requirements)
-[Tech Stack](#tech-stack)
-
-5. [How to Access Finance Toolset](#how-to-access-finance-toolset)
-
-6. [Repository Structure](#repository-structure)
-
-7. [Community Contributions](#community-contributions)
-
-8. [Contact & Support](#contact--support)
-
+- [**Finance Toolset | Smart Financial Planning \& Budgeting**](#finance-toolset--smart-financial-planning--budgeting)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Product Overview](#product-overview)
+  - [Features](#features)
+    - [Budgeting \& Expense Management](#budgeting--expense-management)
+    - [Smart Spending Guidance](#smart-spending-guidance)
+    - [Financial Allocation \& Planning](#financial-allocation--planning)
+  - [System Requirements](#system-requirements)
+    - [Minimum Requirements:](#minimum-requirements)
+    - [Recommended Requirements:](#recommended-requirements)
+    - [Tech Stack](#tech-stack)
+  - [How to Access Finance Toolset](#how-to-access-finance-toolset)
+  - [Repository Structure](#repository-structure)
+  - [Community Contributions](#community-contributions)
+  - [Contact \& Support](#contact--support)
 
 ## Introduction
 
@@ -38,14 +29,12 @@ Welcome to _Magic Worlds_, a DAO project where we’re revolutionizing AI, decen
 
 Whether you're an individual managing personal finances or a business tracking expenses, the **Finance Toolset** offers **a variety of applications strategies, and insights** to optimize spending, savings, and investment strategies.
 
-
 ## Product Overview
 
 **ProductType:** Finance Management Application
 
 **Target Release:** Ongoing Development\
 **Product Owner:** Magic Worlds Development Team
-
 
 ## Features
 
@@ -55,13 +44,11 @@ Whether you're an individual managing personal finances or a business tracking e
 
 - **Real-Time Expense Monitoring** – Track financial transactions effortlessly.
 
-
 ### Smart Spending Guidance
 
 - **AI Recommendations** – Personalized spending insights to reduce unnecessary costs.
 
 - **Savings Optimization** – Intelligent suggestions for better financial habits.
-
 
 ### Financial Allocation & Planning
 
@@ -70,7 +57,6 @@ Whether you're an individual managing personal finances or a business tracking e
 - **Customizable Financial Goals** – Set savings and investment targets with progress tracking.
 
 - **Fund Allocation Assistant** – Allocate income to specific categories based on priorities.
-
 
 ## System Requirements
 
@@ -84,7 +70,6 @@ Whether you're an individual managing personal finances or a business tracking e
 
 - **Storage**: 10 GB available space
 
-
 ### Recommended Requirements:
 
 - **OS**: Windows 11 / Latest macOS / Linux
@@ -94,7 +79,6 @@ Whether you're an individual managing personal finances or a business tracking e
 - **Memory**: 16 GB RAM
 
 - **Storage**: 20 GB SSD
-
 
 ### Tech Stack
 
@@ -107,7 +91,6 @@ Whether you're an individual managing personal finances or a business tracking e
 - **Deployment**: Docker, AWS, Google Cloud
 
 - **Version Control**: GitHub
-
 
 ## How to Access Finance Toolset
 
@@ -129,7 +112,6 @@ Whether you're an individual managing personal finances or a business tracking e
 
 6. **Start Planning**: Use Fiance toolset’s variety of technical features to help plan out your budget, spending and future finances.
 
-
 ## Repository Structure
 
 plaintext
@@ -142,22 +124,20 @@ Finance-Toolset/
 │-- assets/ # Project assets (images, icons, videos)
 │-- blog/ # Financial blog and educational resources
 │-- css/ # Frontend stylesheets
-│-- docs/  # Documentation and guides
-│-- js/  # JavaScript logic and scripts
+│-- docs/ # Documentation and guides
+│-- js/ # JavaScript logic and scripts
 │-- php/ # PHP-based financial tools and API connections
 │-- .gitignore # Git ignore file for untracked files
 │-- 3D-avatar/ # 3D financial visualizations and avatar
 │-- customizable-features/ # User-defined financial tools
 │-- finance-time-machine/ # Predictive financial modeling feature
-│-- LICENSE  # License details
-│-- README.md  # Project README file
+│-- LICENSE # License details
+│-- README.md # Project README file
 │-- smart-spending-guidance/ # AI-powered financial recommendations
-│-- custom\_budget.py # Custom budget automation script
+│-- custom_budget.py # Custom budget automation script
 │-- index.html # Main entry point for frontend UI
 
 \
-
-
 
 ## Community Contributions
 
@@ -168,7 +148,6 @@ Finance Toolset is an open-source project under **Magic Worlds**. You can contri
 - Reporting bugs and suggesting improvements.
 
 - Writing documentation and tutorials.
-
 
 ## Contact & Support
 
